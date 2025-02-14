@@ -1,1 +1,1 @@
-# student-repo-template
+# Pygame Basic Shapes Repo
