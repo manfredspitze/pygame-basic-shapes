@@ -2,6 +2,7 @@
 
 ### Instructions
 
-View these files in this repository in this sequence:
+View these files and complete these activities in this order:
 
-- [PRIMM Basic Shapes](https://github.com/manfredspitze/pygame-basic-shapes/blob/main/primm-basic-shapes.md)
+1. [PRIMM Basic Shapes](https://github.com/manfredspitze/pygame-basic-shapes/blob/main/primm-basic-shapes.md)
+2. [Coding with Russ / Shapes](https://youtu.be/YDP1Hk7uZFA?feature=shared)
