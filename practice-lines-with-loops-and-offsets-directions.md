@@ -10,4 +10,4 @@ An **offset** value is the number of pixels by which the starting and ending poi
 
 Using an offset value and a `for` loop allows you to create a series of parallel lines with a consistent spacing between them.
 
-An offset value can be **horizontal** or **vertical**.
+An offset value can create consistent spacing between lines **horizontally** or **vertically**.
