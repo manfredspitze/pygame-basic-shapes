@@ -22,7 +22,6 @@ def draw_rectangle(screen, rect, color, thickness):
     pygame.draw.rect(screen, color, rect, thickness)
 
 # Call the rectangle function from your main ( ) function like so:
-```python
 my_rect1 = [100, 100, 200, 150]
 thickness1 = 8
 
