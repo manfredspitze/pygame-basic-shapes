@@ -44,7 +44,7 @@ def draw_circle(screen, center, radius, color, thickness):
  circle_center = (300, 200)  # Center point of the circle (x, y)
  circle_radius = 50           # Radius of the circle
  circle_color = config.GREEN   # Color of the circle
- circle_thickness = 0         # 0 pixels for a filled circle
+ circle_thickness = 0         # 0 pixels creates a filled in circle
 
  # Draw the circle
  draw_circle(screen, circle_center, circle_radius, circle_color, circle_thickness)
