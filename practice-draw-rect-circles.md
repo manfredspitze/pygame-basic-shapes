@@ -37,16 +37,12 @@ def draw_circle(screen, center, radius, color, thickness):
     """Draws a circle on the Pygame window."""
     pygame.draw.circle(screen, color, center, radius, thickness)
 
-# Call the circle function from your main ( ) function like so:
-```python
 # Define circle arguments for the function call
 circle_center = (300, 200)  # Center point of the circle (x, y)
 circle_radius = 50           # Radius of the circle
 circle_color = config.GREEN   # Color of the circle
 circle_thickness = 0         # 0 pixels creates a filled in circle
 
-# Call the function that draws the circle
-# Remember to add the function call to your `main()` function
- 
+# Call the function that draws the circle from your `main()` function
 draw_circle(screen, circle_center, circle_radius, circle_color, circle_thickness)
 ```
